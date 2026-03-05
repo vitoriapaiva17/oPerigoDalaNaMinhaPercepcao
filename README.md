@@ -1,1 +1,6 @@
 # oPerigoDalaNaMinhaPercepcao
+O documentário mostra como a inteligência artificial pode analisar grandes quantidades de dados disponíveis na internet, principalmente em redes sociais, para identificar padrões de comportamento das pessoas. Através dessas informações, algoritmos conseguem entender preferências, opiniões e até prever possíveis decisões da população.
+Um dos exemplos apresentados é o uso de sistemas que analisam publicações em redes sociais para tentar prever resultados de eleições. Em vez de utilizar apenas pesquisas tradicionais, a inteligência artificial observa milhares de comentários e interações online para identificar tendências de opinião pública.
+Apesar das vantagens tecnológicas, o documentário também destaca alguns riscos. Entre eles estão a perda de privacidade, o uso indevido de dados pessoais e a possibilidade de manipulação de informações para influenciar decisões das pessoas.
+Conclusão
+Na minha percepção, a inteligência artificial é uma tecnologia muito poderosa e útil, mas que precisa ser utilizada com responsabilidade. É importante que existam regras e limites para proteger os dados das pessoas e evitar que a tecnologia seja usada de forma prejudicial à sociedade
